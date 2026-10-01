@@ -2,6 +2,10 @@
 Primera línea
 =======
 Segunda Línea
+<<<<<<< HEAD
 >>>>>>> RamaDos
 Primera línea
 Segunda línea
+=======
+tercera línea
+>>>>>>> RamaDos
